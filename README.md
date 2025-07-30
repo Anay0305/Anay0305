@@ -1,61 +1,53 @@
-<h1 align="center">Hi, I'm Anay!</h1>
-<p align="center">
-  <b>Passionate Python Developer | Aspiring Software Engineer | Tech Enthusiast</b>
-</p>
+# Hi, I'm Anay!
+
+**Passionate Python Developer | Aspiring Software Engineer**
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Anay0305">
-    <img src="https://img.shields.io/github/followers/Anay0305?style=for-the-badge" />
+## About Me
+
+- Currently pursuing a degree in Computer Science & Engineering.
+- Skilled in Python development with a focus on automation and Discord bots.
+- Experience building APIs and web applications.
+- Familiar with VPS and cloud platforms such as AWS, Azure, Google Cloud Platform, DigitalOcean, and GalaxyGate.
+- Hands-on experience using AWS S3 buckets and knowledge of DevOps practices.
+- Continuously learning new technologies and eager to contribute to open source projects and collaborate on innovative solutions.
+
+---
+
+## Tech Stack
+
+- **Programming Languages:** Python, JavaScript
+- **Frameworks:** discord.py, Django (currently learning)
+- **Tools & Platforms:** Git, GitHub, REST APIs, Docker (beginner), AWS, Azure, GCP
+- **Areas of Interest:** Cloud Computing, DevOps, Open Source, Hackathons, Problem Solving
+
+---
+
+## Selected Projects
+
+| Project | Description |
+|---------|-------------|
+| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | Discord bot for server management and automation |
+| [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API to fetch images and graphics for a Discord bot |
+| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django-based web application for conducting mock tests |
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Anay0305" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anaysumeet@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## 🧑‍💻 About Me
-
-- 🎓 Pursuing **Computer Science & Engineering**
-- 🐍 Python is my primary playground—automation and bots are my forte
-- 🤖 Experience building fun Discord bots, APIs, and automation tools
-- 🌱 Always learning: currently exploring web development & cloud basics
-- 💡 Excited to contribute to open source and collaborate on cool projects
-
 ---
 
-## 📚 Tech Stack
-
-- **Languages:** Python, JavaScript
-- **Frameworks:** discord.py, Django (learning)
-- **Tools:** Git, GitHub, REST APIs, Docker (beginner)
-- **Interests:** Open Source, Hackathons, Creative Problem Solving
-
----
-
-## 🚀 Featured Projects
-
-| Repo | Description |
-| --- | --- |
-| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | A Discord bot for server utilities and automation |
-| [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API for an fetching some graphics and image for my Discord bot |
-| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django web app for conducting mock tests |
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/Anay0305"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:anaysumeet@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-</p>
-
----
-
-## 🔥 Fun Fact
-
-When I’m not coding, you’ll find me exploring new tech, entering hackathons, or working on creative side projects. Let’s connect and build something awesome together!
-
----
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐ Feel free to check out my repositories and connect anytime.</i>
-</p>
+Thank you for visiting my profile. Feel free to explore my projects and connect to collaborate or discuss opportunities.
