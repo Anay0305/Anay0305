@@ -34,8 +34,7 @@
 
 | Repo | Description |
 | --- | --- |
-| [gateway](https://github.com/Anay0305/gateway) | Project on API gateway concepts and implementations |
-| [Gateway-discord-bot](https://github.com/Anay0305/Main-discord-bot) | A Discord bot for server utilities and automation |
+| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | A Discord bot for server utilities and automation |
 | [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API for an fetching some graphics and image for my Discord bot |
 | [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django web app for conducting mock tests |
 
