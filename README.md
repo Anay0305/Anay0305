@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anay! 👋</h1>
+<h1 align="center">Hi, I'm Anay!</h1>
 <p align="center">
   <b>Passionate Python Developer | Aspiring Software Engineer | Tech Enthusiast</b>
 </p>
@@ -9,7 +9,6 @@
   <a href="https://github.com/Anay0305">
     <img src="https://img.shields.io/github/followers/Anay0305?style=for-the-badge" />
   </a>
-  <!-- Add more badges if desired (Languages, Stars, etc.) -->
 </p>
 
 ## 🧑‍💻 About Me
@@ -25,7 +24,7 @@
 ## 📚 Tech Stack
 
 - **Languages:** Python, JavaScript
-- **Frameworks:** discord.py, Flask (learning)
+- **Frameworks:** discord.py, Django (learning)
 - **Tools:** Git, GitHub, REST APIs, Docker (beginner)
 - **Interests:** Open Source, Hackathons, Creative Problem Solving
 
@@ -36,9 +35,9 @@
 | Repo | Description |
 | --- | --- |
 | [gateway](https://github.com/Anay0305/gateway) | Project on API gateway concepts and implementations |
-| [Main-discord-bot](https://github.com/Anay0305/Main-discord-bot) | A Discord bot for server utilities and automation |
-| [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API for an image-fetching Discord bot |
-| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | JavaScript web app for conducting mock tests |
+| [Gateway-discord-bot](https://github.com/Anay0305/Main-discord-bot) | A Discord bot for server utilities and automation |
+| [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API for an fetching some graphics and image for my Discord bot |
+| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django web app for conducting mock tests |
 
 ---
 
@@ -46,10 +45,9 @@
 
 <p>
   <a href="https://github.com/Anay0305"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:anaysumeet@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
-_Replace LinkedIn/email with your actual links!_
 
 ---
 
