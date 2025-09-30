@@ -62,10 +62,6 @@
 - Practicing DSA and algorithms on [LeetCode](https://leetcode.com/u/anaygupta03/)  
 - Active in solving **medium and hard-level problems** regularly  
 
-<a href="https://leetcode.com/u/anaygupta03/" target="_blank">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
 ---
 
 ## 📈 Achievements
