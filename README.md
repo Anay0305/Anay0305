@@ -39,6 +39,17 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 
 ---
 
+## 🧠 Problem Solving
+
+- Practicing DSA and algorithms on [LeetCode](https://leetcode.com/u/anaygupta03/)  
+- Active in solving **medium and hard-level problems** regularly  
+
+<a href="https://leetcode.com/u/anaygupta03/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+---
+
 ## 📈 Achievements
 
 - 🏆 Built and scaled a Discord bot to **635+ servers and 1.3M+ users**  
@@ -70,11 +81,11 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=radical)
+
 ---
 
 ## 💡 Let's Collaborate
 
 Feel free to **explore my projects**, open issues, or contribute!  
 I’m always open to collaborating on exciting projects, hackathons, and open-source initiatives.
-
----
