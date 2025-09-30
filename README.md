@@ -91,7 +91,3 @@
 </p>
 
 ---
-## 💡 Let's Collaborate
-
-Feel free to **explore my projects**, open issues, or contribute!  
-I’m always open to collaborating on exciting projects, hackathons, and open-source initiatives.
