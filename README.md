@@ -6,19 +6,19 @@
   <strong style="font-size:1.1em;">Aspiring Software Engineer · Passionate Python Developer · Backend Developer</strong>
   <br/><br/>
   <a href="mailto:anaysumeet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2f2f2f" />
   </a>
   <a href="https://anaygupta.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=1f1f1f" />
   </a>
   <a href="https://anaygupta.xyz/resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000" />
+    <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=2f2f2f" />
   </a>
   <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1f1f1f" />
   </a>
   <a href="https://leetcode.com/u/anaygupta03/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=2f2f2f" />
   </a>
 </div>
 
