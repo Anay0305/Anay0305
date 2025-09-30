@@ -27,8 +27,6 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 | **Databases**      | MongoDB, SQLite, MySQL                            |
 | **Interests**      | Cloud Computing, DevOps, Open Source, Hackathons, Problem Solving |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=radical)
-
 ---
 
 ## 🚀 Selected Projects
@@ -63,17 +61,21 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/Anay0305" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anaysumeet@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <a href="https://leetcode.com/u/anaygupta03/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</div>
+
 
 ---
 
