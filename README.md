@@ -1,10 +1,28 @@
-# 👋 Hi, I'm Anay Gupta
+<h1 align="center">
+  <img src="https://imgur.com/C7PX4kM.gif" width="30" height="30" alt="wave hand"/> Hi, I'm <b>Anay Gupta</b>!
+</h1>
 
-**🚀 Passionate Python Developer | Aspiring Software Engineer**  
-Building scalable solutions, exploring cloud computing, and contributing to open source.
+<div align="center">
+  <strong style="font-size:1.1em;">Aspiring Software Engineer · Passionate Python Developer · Backend Developer</strong>
+  <br/><br/>
+  <a href="mailto:anaysumeet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://anaygupta.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-anaygupta.xyz-4B0082?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://anaygupta.xyz/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000" />
+  </a>
+  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anaygupta03/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 - 🎓 Pursuing a **B.E. in Computer Science & Engineering**  
@@ -56,26 +74,6 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 - 🛠 Developed full-stack platforms integrating **REST APIs, WebSocket support, and cloud services**  
 - 🌍 Implemented **interactive maps**, multilingual support, and personalized recommendations for real-world projects  
 - 📚 Strong foundation in **data structures, algorithms, and problem-solving** with active LeetCode practice  
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/Anay0305" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anaysumeet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/anaygupta03/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</div>
-
 
 ---
 
