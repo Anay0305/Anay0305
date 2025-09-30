@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff4b4b" />
   </a>
   <a href="https://anaygupta.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=6a0dad" />
+    <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://anaygupta.xyz/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=ffcc00" />
