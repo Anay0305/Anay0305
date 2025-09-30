@@ -79,12 +79,22 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 
 ## 📊 GitHub Stats
 
-![Anay Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=radical&count_private=true&cache_seconds=0)
+<p align="center">
+  <a href="https://github.com/Anay0305">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=0" height="160"/>
+  </a>
+  <a href="https://github.com/Anay0305">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=radical&hide_border=true&langs_count=10" height="160"/>
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=radical)
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=radical" height="160"/>
+  </a>
+</p>
 
 ---
-
 ## 💡 Let's Collaborate
 
 Feel free to **explore my projects**, open issues, or contribute!  
