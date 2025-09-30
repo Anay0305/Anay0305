@@ -66,7 +66,7 @@ Building scalable solutions, exploring cloud computing, and contributing to open
 
 ## 📊 GitHub Stats
 
-![Anay Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=radical)
+![Anay Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=radical&count_private=true&cache_seconds=0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=radical)
 
