@@ -1,53 +1,80 @@
-# Hi, I'm Anay!
+# 👋 Hi, I'm Anay Gupta
 
-**Passionate Python Developer | Aspiring Software Engineer**
-
----
-
-## About Me
-
-- Currently pursuing a degree in Computer Science & Engineering.
-- Skilled in Python development with a focus on automation and Discord bots.
-- Experience building APIs and web applications.
-- Familiar with VPS and cloud platforms such as AWS, Azure, Google Cloud Platform, DigitalOcean, and GalaxyGate.
-- Hands-on experience using AWS S3 buckets and knowledge of DevOps practices.
-- Continuously learning new technologies and eager to contribute to open source projects and collaborate on innovative solutions.
+**🚀 Passionate Python Developer | Aspiring Software Engineer**  
+Building scalable solutions, exploring cloud computing, and contributing to open source.
 
 ---
 
-## Tech Stack
+## 🧑‍💻 About Me
 
-- **Programming Languages:** Python, JavaScript
-- **Frameworks:** discord.py, Django (currently learning)
-- **Tools & Platforms:** Git, GitHub, REST APIs, Docker (beginner), AWS, Azure, GCP
-- **Areas of Interest:** Cloud Computing, DevOps, Open Source, Hackathons, Problem Solving
+- 🎓 Pursuing a **B.E. in Computer Science & Engineering**  
+- 💻 Skilled in **Python development**, with strong experience in automation, backend APIs, and Discord bots  
+- 🌐 Hands-on experience with **VPS hosting**, **AWS**, **Azure**, **Google Cloud Platform**, **DigitalOcean**, and **GalaxyGate**  
+- ⚙️ Practical knowledge of **REST APIs**, **Docker**, and DevOps practices  
+- 🔍 Continuously learning new technologies, exploring hackathons, and passionate about open source collaboration  
 
 ---
 
-## Selected Projects
+## 🛠 Tech Stack
+
+| Category            | Skills                                             |
+|---------------------|----------------------------------------------------|
+| **Languages**      | Python, Java, C, SQL, JavaScript (Learning)      |
+| **Frameworks**     | Django, Flask, discord.py, Selenium, Leaflet.js  |
+| **Web Development**| HTML, CSS, JavaScript, React.js, Next.js         |
+| **Cloud & DevOps** | AWS (S3, EC2, Lambda), Azure, GCP, Docker, REST APIs |
+| **Tools**          | Git, GitHub, PIL/Pillow, BeautifulSoup, Linux/Unix |
+| **Databases**      | MongoDB, SQLite, MySQL                            |
+| **Interests**      | Cloud Computing, DevOps, Open Source, Hackathons, Problem Solving |
+
+---
+
+## 🚀 Selected Projects
 
 | Project | Description |
 |---------|-------------|
-| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | Discord bot for server management and automation |
-| [Image-Fetch-discord-bot-API](https://github.com/Anay0305/Image-Fetch-discord-bot-API) | API to fetch images and graphics for a Discord bot |
-| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django-based web application for conducting mock tests |
+| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | Multifunctional Discord bot with automation, moderation, and engagement features |
+| [Card-Graphics-API](https://github.com/Anay0305/Card-Graphics-Api) | Flask-based API to generate dynamic graphics and profile cards for Discord |
+| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django web app for conducting quizzes and mock exams with secure login and instant scoring |
 
 ---
 
-## Connect with Me
+## 📈 Achievements
+
+- 🏆 Built and scaled a Discord bot to **635+ servers and 1.3M+ users**  
+- 🛠 Developed full-stack platforms integrating **REST APIs, WebSocket support, and cloud services**  
+- 🌍 Implemented **interactive maps**, multilingual support, and personalized recommendations for real-world projects  
+- 📚 Strong foundation in **data structures, algorithms, and problem-solving** with active LeetCode practice  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/Anay0305" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Anay0305" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anaysumeet@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:anaysumeet@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-Thank you for visiting my profile. Feel free to explore my projects and connect to collaborate or discuss opportunities.
+## 📊 GitHub Stats
+
+![Anay Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=radical)
+
+---
+
+## 💡 Let's Collaborate
+
+Feel free to **explore my projects**, open issues, or contribute!  
+I’m always open to collaborating on exciting projects, hackathons, and open-source initiatives.
+
+---
