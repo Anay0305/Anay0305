@@ -23,7 +23,7 @@
 </div>
 
 ---
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🎓 Pursuing a **B.E. in Computer Science & Engineering**  
 - 💻 Skilled in **Python development**, with strong experience in automation, backend APIs, and Discord bots  
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 | Category            | Skills                                             |
 |---------------------|----------------------------------------------------|
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Selected Projects
+### 🚀 Selected Projects
 
 | Project | Description |
 |---------|-------------|
@@ -57,14 +57,14 @@
 
 ---
 
-## 🧠 Problem Solving
+### 🧠 Problem Solving
 
 - Practicing DSA and algorithms on [LeetCode](https://leetcode.com/u/anaygupta03/)  
 - Active in solving **medium and hard-level problems** regularly  
 
 ---
 
-## 📈 Achievements
+### 📈 Achievements
 
 - 🏆 Built and scaled a Discord bot to **635+ servers and 1.3M+ users**  
 - 🛠 Developed full-stack platforms integrating **REST APIs, WebSocket support, and cloud services**  
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Anay0305">
