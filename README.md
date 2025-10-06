@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/Anay0305">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" height="160"/>
   </a>
   <a href="https://github.com/Anay0305">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="160"/>
