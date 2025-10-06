@@ -91,5 +91,3 @@
 </p>
 
 ---
-
-[![An image of @anay0305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anay0305)](https://holopin.io/@anay0305)
