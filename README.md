@@ -76,18 +76,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Anay0305">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" height="160"/>
-  </a>
-  <a href="https://github.com/Anay0305">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="160"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xinacy&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="160"/>
 </p>
 
+### 📊 Activity
+
 <p align="center">
-  <a href="https://github.com/Anay0305">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anay0305&theme=transparent" height="160"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anay0305&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
