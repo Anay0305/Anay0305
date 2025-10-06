@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/Anay0305">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=transparent&hide_border=true" height="160"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anay0305&theme=transparent" height="160"/>
   </a>
 </p>
 
