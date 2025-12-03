@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer · Passionate Python Developer · Backend Developer</strong>
+  <strong>Aspiring Software Engineer · Passionate Python Developer · Full Stack Developer</strong>
 </p>
 
 <p align="center">
