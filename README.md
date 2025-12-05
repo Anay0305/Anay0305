@@ -74,8 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anay0305&show_icons=true&theme=github_dark&count_private=true&hide_border=true&cache_seconds=15" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="160"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api?username=Anay0305&show_icons=true&theme=github_dark&count_private=true&hide_border=true&cache_seconds=15" height="160"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="160"/>
 </p>
 
 <p align="center">
