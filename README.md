@@ -85,4 +85,8 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anay0305&style=flat&color=lightgray" alt="profile views"/>
+</p>
+
 ⭐ **“Building, learning, and contributing — one commit at a time.”**
