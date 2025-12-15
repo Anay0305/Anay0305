@@ -8,85 +8,91 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anaysumeet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2f2f2f"/></a>
-  <a href="https://anaygupta.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=1f1f1f"/></a>
-  <a href="https://anaygupta.xyz/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=2f2f2f"/></a>
+  <a href="mailto:me@anaygupta.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2f2f2f"/></a>
+  <a href="https://zssh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=1f1f1f"/></a>
+  <a href="https://zssh.dev/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=2f2f2f"/></a>
   <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1f1f1f"/></a>
   <a href="https://leetcode.com/u/anaygupta03/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=2f2f2f"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## Overview
 
-- 🎓 Pursuing a **B.E. in Computer Science & Engineering**  
-- 💻 Skilled in **Python development**, with experience in automation, backend APIs, and Discord bots  
-- 🌐 Hands-on experience with **AWS**, **Azure**, **GCP**, **DigitalOcean**, and **GalaxyGate**  
-- ⚙️ Practical knowledge of **REST APIs**, **Docker**, and modern DevOps practices  
-- 🔍 Continuously exploring new technologies, hackathons, and open-source collaboration  
+Computer Science & Engineering student specializing in full stack development. Experienced in the complete development lifecycle from architecting backend systems and REST APIs to creating responsive frontends. Passionate about solving complex problems, writing clean code, and continuously learning new technologies.
 
 ---
 
-## 🛠 Tech Stack
+## Technical Expertise
 
-| **Category**        | **Technologies & Tools** |
-|----------------------|---------------------------|
-| **Languages**        | Python, Java, C, SQL, JavaScript (Learning) |
-| **Frameworks**       | Django, Flask, discord.py, Selenium, Leaflet.js |
-| **Web Development**  | HTML, CSS, JavaScript, React.js, Next.js |
-| **Cloud & DevOps**   | AWS (S3, EC2, Lambda), Azure, GCP, Docker, REST APIs |
-| **Tools**            | Git, GitHub, PIL/Pillow, BeautifulSoup, Linux/Unix |
-| **Databases**        | MongoDB, SQLite, MySQL |
-| **Interests**        | Cloud Computing, DevOps, Open Source, Hackathons, Problem Solving |
-
----
-
-## 🚀 Featured Projects
-
-| **Project** | **Description** |
-|--------------|-----------------|
-| [Gateway-discord-bot](https://github.com/Anay0305/Gateway-discord-bot) | Multifunctional Discord bot with automation, moderation, and engagement features |
-| [Card-Graphics-API](https://github.com/Anay0305/Card-Graphics-Api) | Flask-based API to generate dynamic graphics and profile cards for Discord |
-| [Online-Mock-Tests-WebApp](https://github.com/Anay0305/Online-Mock-Tests-WebApp) | Django web app for conducting quizzes and mock exams with secure login and instant scoring |
+```
+Languages          Python · JavaScript · TypeScript · Java · C · SQL
+Frontend           React.js · Next.js · Tailwind CSS
+Backend            Django · Flask · Node.js · Express · REST APIs
+Cloud & DevOps     AWS (S3, EC2, Lambda) · Azure · GCP · Docker
+Databases          MongoDB · PostgreSQL · MySQL · Redis
+Tools & Platforms  Git · GitHub · Linux · Nginx · Postman
+```
 
 ---
 
-## 🧠 Problem Solving
+## Professional Work
 
-- Practicing **Data Structures & Algorithms** on [LeetCode](https://leetcode.com/u/anaygupta03/)  
-- Regularly solving **medium** and **hard-level** problems  
+### **MegaLLM** | Software Engineer
+*Next.js · TypeScript · MongoDB · REST APIs*
 
----
-
-## 🏆 Achievements
-
-- Built and scaled a Discord bot to **635+ servers and 1.3M+ users**  
-- Developed **full-stack platforms** with REST APIs, WebSocket support, and cloud integrations  
-- Implemented **interactive maps**, **multilingual features**, and **personalized recommendations**  
-- Solid foundation in **DSA, algorithms, and system design** principles  
+[Visit Website →](https://megallm.io)
 
 ---
 
-## 📊 GitHub Insights
+## Key Projects
+
+### **Gateway** | Discord Bot
+*Python · discord.py · REST APIs*
+
+Discord bot providing automation, moderation, and engagement features. Scaled to 635+ servers serving 1.3M+ users.
+
+[View Repository →](https://github.com/Anay0305/Card-Graphics-Api)
+
+### **Online Mock Tests Platform** | Web Application
+*Django · PostgreSQL · Authentication · Admin Dashboard*
+
+Full-featured web application for conducting online assessments with secure authentication, real-time scoring, and comprehensive admin controls. Implements role-based access control and data analytics.
+
+[View Repository →](https://github.com/Anay0305/Online-Mock-Tests-WebApp)
+
+---
+
+## Achievements
+
+- Built and deployed multiple **production applications** serving real users
+- Completed **Hacktoberfest 2024** open-source contribution challenge
+- Developed **REST APIs** and backend services for web applications
+- Active contributor to **open-source** projects and technical communities
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anay0305&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anay0305&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-gilt-alpha.vercel.app/api?username=Anay0305&show_icons=true&theme=github_dark&count_private=true&hide_border=true&cache_seconds=15" height="160"/>
-  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="160"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api?username=Anay0305&show_icons=true&theme=github_dark&count_private=true&hide_border=true&cache_seconds=15" height="165"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=Anay0305&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&v=2&langs_count=10" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anay0305&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anay0305&theme=github_dark"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anay0305&style=flat&color=lightgray" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Anay0305&style=flat&color=lightgray" alt="Profile Views"/>
 </p>
-
-⭐ **“Building, learning, and contributing — one commit at a time.”**
