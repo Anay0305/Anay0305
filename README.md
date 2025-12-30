@@ -66,7 +66,7 @@ Full-featured web application for conducting online assessments with secure auth
 ## Achievements
 
 - Built and deployed multiple **production applications** serving real users
-- Completed **Hacktoberfest 2024** open-source contribution challenge
+- Completed **Hacktoberfest 2025** open-source contribution challenge
 - Developed **REST APIs** and backend services for web applications
 - Active contributor to **open-source** projects and technical communities
 
