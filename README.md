@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer · Passionate Python Developer · Full Stack Developer</strong>
+  <strong>Backend Software Engineer · AI Engineer</strong>
 </p>
 
 <p align="center">
@@ -17,58 +17,68 @@
 
 ---
 
-## Overview
+## Profile Summary
 
-Computer Science & Engineering student specializing in full stack development. Experienced in the complete development lifecycle from architecting backend systems and REST APIs to creating responsive frontends. Passionate about solving complex problems, writing clean code, and continuously learning new technologies.
-
----
-
-## Technical Expertise
-
-```
-Languages          Python · JavaScript · TypeScript · Java · C · SQL
-Frontend           React.js · Next.js · Tailwind CSS
-Backend            Django · Flask · Node.js · Express · REST APIs
-Cloud & DevOps     AWS (S3, EC2, Lambda) · Azure · GCP · Docker
-Databases          MongoDB · PostgreSQL · MySQL · Redis
-Tools & Platforms  Git · GitHub · Linux · Nginx · Postman
-```
+Backend Software Engineer with hands-on experience owning production billing and subscription systems (Stripe, Razorpay) and building scalable backend services using Python, TypeScript, FastAPI, and REST APIs. Proven experience designing reliable, revenue-critical systems alongside real-time and AI-driven backend infrastructure on cloud platforms (AWS, Azure, GCP).
 
 ---
 
-## Professional Work
+## Technical Skills
+
+```
+Languages          Python · TypeScript · JavaScript · C · SQL
+Databases          MongoDB · PostgreSQL
+Backend            FastAPI · Django · REST APIs · JWT Authentication · WebSockets
+Frontend           React.js · Next.js · HTML · CSS · Tailwind CSS
+Cloud & DevOps     AWS (S3, EC2, Amplify) · Azure · GCP · Docker
+Core CS            Data Structures & Algorithms · Problem Solving · Competitive Programming
+Tools              Git · GitHub · Linux/Unix · Stripe · Razorpay · BeautifulSoup · PIL/Pillow
+```
+
+---
+
+## Experience
+
+### **Surf** | Co-Founder & Chief AI Engineer
+*Remote · Dec 2025 – Present*
+
+- Co-founded and engineered an AI-powered meeting platform supporting real-time transcription and multilingual translation.
+- Designed and implemented low-latency AI services using Python, FastAPI, and WebSockets for real-time audio streaming.
 
 ### **MegaLLM** | Software Engineer
-*Next.js · TypeScript · MongoDB · REST APIs*
+*Remote · Oct 2025 – Present*
+
+- Building a unified AI gateway providing access to 70+ LLMs through a single API, serving production traffic.
+- Owned end-to-end billing infrastructure (Stripe + Razorpay), processing **$12K+ revenue across 1,000+ transactions**, implementing idempotent webhooks, atomic subscription tier upgrades, and failure-safe payment state transitions.
+- Designed MongoDB schemas for users, subscriptions, payment records, and real-time usage analytics.
 
 [Visit Website →](https://megallm.io)
 
 ---
 
-## Key Projects
+## Projects
 
-### **Gateway** | Discord Bot
-*Python · discord.py · REST APIs*
+### **Protego** | AI-Powered Personal Safety Platform
+*[Live Product](https://protego.zssh.dev)*
 
-Discord bot providing automation, moderation, and engagement features. Scaled to 635+ servers serving 1.3M+ users.
+- Designed and implemented a layered FastAPI backend (routers + service layer + SQLAlchemy) backed by PostgreSQL and Redis, with production-style middleware and validation.
+- Built an event-driven emergency alert system with async countdowns, persistence-backed recovery on restart, and automated notification fan-out via Twilio (SMS/WhatsApp/Voice).
+- Implemented security-first authentication with JWT middleware, bcrypt hashing, duress-password login flow resistant to timing attacks, and endpoint-level rate limiting.
+- Shipped location safety features including geofencing (Haversine distance), auto-start/stop walk sessions, and cryptographically secure live-tracking tokens.
 
-[View Repository →](https://github.com/Anay0305/Card-Graphics-Api)
+### **EduGuide** | One-Stop Career & Education Advisor
+*[GitHub](https://github.com/Anay0305/EduGuide)*
 
-### **Online Mock Tests Platform** | Web Application
-*Django · PostgreSQL · Authentication · Admin Dashboard*
+- Developed a full-stack platform using Node.js, Express, MongoDB, and Next.js to improve college enrollment through personalized recommendations.
+- Implemented secure authentication, role-based access control, and REST APIs for courses and recommendations.
+- Integrated interactive college maps and multilingual content delivery using translation APIs.
 
-Full-featured web application for conducting online assessments with secure authentication, real-time scoring, and comprehensive admin controls. Implements role-based access control and data analytics.
+### **Gateway** | Discord Bot & Card Graphics API
+*[GitHub](https://github.com/Anay0305/Gateway-discord-bot)*
 
-[View Repository →](https://github.com/Anay0305/Online-Mock-Tests-WebApp)
-
----
-
-## Achievements
-
-- Built and deployed multiple **production applications** serving real users
-- Completed **Hacktoberfest 2025** open-source contribution challenge
-- Developed **REST APIs** and backend services for web applications
-- Active contributor to **open-source** projects and technical communities
+- Developed and deployed a multifunctional Discord bot with automation, moderation, and engagement features.
+- Built REST APIs and a Flask-based Card Graphics API for dynamic profile cards and leaderboards.
+- Scaled backend services to 635+ guilds and 1.3M+ users, handling high-frequency events with reliable API performance and persistent storage.
 
 ---
 
