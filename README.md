@@ -39,12 +39,6 @@ Tools              Git · GitHub · Linux/Unix · Stripe · Razorpay · Beautifu
 
 ## Experience
 
-### **Surf** | Co-Founder & Chief AI Engineer
-*Remote · Dec 2025 – Present*
-
-- Co-founded and engineered an AI-powered meeting platform supporting real-time transcription and multilingual translation.
-- Designed and implemented low-latency AI services using Python, FastAPI, and WebSockets for real-time audio streaming.
-
 ### **MegaLLM** | Software Engineer
 *Remote · Oct 2025 – Present*
 
