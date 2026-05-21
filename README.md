@@ -19,7 +19,7 @@
 
 ## Profile Summary
 
-Backend Software Engineer with hands-on experience owning production billing and subscription systems (Stripe, Razorpay) and building scalable backend services using Python, TypeScript, FastAPI, and REST APIs. Proven experience designing reliable, revenue-critical systems alongside real-time and AI-driven backend infrastructure on cloud platforms (AWS, Azure, GCP).
+Backend Software Engineer building production-grade billing, gateway, and real-time AI infrastructure. Sole engineer on the **MegaLLM** backend — a multi-provider LLM gateway in front of 70+ models with idempotent Stripe/Razorpay/OxaPay billing, multi-tier caching, and full observability. Won **1st Position at the Govt. Pre Sabka AI Hackathon** for **Protego**, an AI-powered personal safety platform. Comfortable across TypeScript, Python, Hono, FastAPI, and cloud (AWS · Azure · GCP).
 
 ---
 
@@ -27,43 +27,44 @@ Backend Software Engineer with hands-on experience owning production billing and
 
 ```
 Languages          Python · TypeScript · JavaScript · C · SQL
-Databases          MongoDB · PostgreSQL
-Backend            FastAPI · Django · REST APIs · JWT Authentication · WebSockets
-Frontend           React.js · Next.js · HTML · CSS · Tailwind CSS
-Cloud & DevOps     AWS (S3, EC2, Amplify) · Azure · GCP · Docker
-Core CS            Data Structures & Algorithms · Problem Solving · Competitive Programming
-Tools              Git · GitHub · Linux/Unix · Stripe · Razorpay · BeautifulSoup · PIL/Pillow
+Backend            Hono · FastAPI · Django · Flask · Node.js · Express · REST APIs · WebSockets · SQLAlchemy
+Frontend           Next.js · React · Tailwind CSS · Zustand · Leaflet
+Databases          MongoDB · PostgreSQL · Redis · ClickHouse · SQLite
+Messaging          Kafka
+Cloud & DevOps     AWS · Azure · GCP · Docker · Vercel · Bun
+Observability      Prometheus · OpenTelemetry · Grafana Loki · Sentry
+Payments           Stripe · Razorpay · OxaPay
+Other              Twilio · BeautifulSoup · PIL/Pillow · Git · Linux/Unix
 ```
 
 ---
 
 ## Experience
 
-### **MegaLLM** | Software Engineer
-*Remote · Oct 2025 – Present*
+### **MegaLLM** | Backend Engineer
+*Remote · Oct 2025 – Present · [megallm.io](https://megallm.io)*
 
-- Building a unified AI gateway providing access to 70+ LLMs through a single API, serving production traffic.
-- Owned end-to-end billing infrastructure (Stripe + Razorpay), processing **$12K+ revenue across 1,000+ transactions**, implementing idempotent webhooks, atomic subscription tier upgrades, and failure-safe payment state transitions.
-- Designed MongoDB schemas for users, subscriptions, payment records, and real-time usage analytics.
-
-[Visit Website →](https://megallm.io)
+- Sole engineer on the MegaLLM backend — a production OpenAI/Anthropic-compatible API gateway in front of 70+ LLMs on **Hono + Bun + TypeScript** with MongoDB, Redis, Kafka, and ClickHouse.
+- Designed a 3-tier cache (in-memory LRU → Redis → MongoDB) hitting **>95% L0 hit rate at ~2–4 ms**, plus intelligent model routing with a MobileBERT classifier and 429/5xx fallback chains.
+- Shipped **Stripe + Razorpay + OxaPay** billing with idempotent webhooks, organization wallets (free/paid/promotional credits), and ClickHouse credit-event streaming for usage correlation.
+- Hardened the platform with JWT + Redis blacklist, prefix-lookup API keys, 3-tier admin RBAC, and full **Prometheus / OpenTelemetry / Grafana Loki** observability.
 
 ---
 
 ## Projects
 
 ### **Protego** | AI-Powered Personal Safety Platform
-*[Live Product](https://protego.zssh.dev)*
+*🏆 Govt. Pre Sabka AI Hackathon — 1st Position · [Live Product](https://protego.zssh.dev)*
 
-- Designed and implemented a layered FastAPI backend (routers + service layer + SQLAlchemy) backed by PostgreSQL and Redis, with production-style middleware and validation.
-- Built an event-driven emergency alert system with async countdowns, persistence-backed recovery on restart, and automated notification fan-out via Twilio (SMS/WhatsApp/Voice).
-- Implemented security-first authentication with JWT middleware, bcrypt hashing, duress-password login flow resistant to timing attacks, and endpoint-level rate limiting.
-- Shipped location safety features including geofencing (Haversine distance), auto-start/stop walk sessions, and cryptographically secure live-tracking tokens.
+- Built the **FastAPI + PostgreSQL** backend with JWT (httpOnly cookies), bcrypt, SQLAlchemy ORM, SlowAPI rate limiting, and Sentry error tracking.
+- Implemented a 5-second cancellable SOS countdown with parallel dispatch to SMS, WhatsApp, email, and voice via **Twilio**, plus token-based public live-tracking pages.
+- Integrated multi-provider AI — **Whisper/Deepgram** for transcription, **Claude (via MegaLLM)** for distress analysis, **Azure OpenAI Realtime** for the AI Safety Call feature, and **ElevenLabs** for TTS.
+- Shipped geofencing with Haversine calculations to auto-start/stop walk sessions, plus a **Next.js 15 PWA** frontend with **Leaflet** maps and **Zustand** state.
 
 ### **EduGuide** | One-Stop Career & Education Advisor
-*[GitHub](https://github.com/Anay0305/EduGuide)*
+*Smart India Hackathon · [GitHub](https://github.com/Anay0305/EduGuide)*
 
-- Developed a full-stack platform using Node.js, Express, MongoDB, and Next.js to improve college enrollment through personalized recommendations.
+- Developed a full-stack platform using **Node.js, Express, MongoDB, and Next.js** to improve college enrollment through personalized recommendations.
 - Implemented secure authentication, role-based access control, and REST APIs for courses and recommendations.
 - Integrated interactive college maps and multilingual content delivery using translation APIs.
 
@@ -72,7 +73,7 @@ Tools              Git · GitHub · Linux/Unix · Stripe · Razorpay · Beautifu
 
 - Developed and deployed a multifunctional Discord bot with automation, moderation, and engagement features.
 - Built REST APIs and a Flask-based Card Graphics API for dynamic profile cards and leaderboards.
-- Scaled backend services to 635+ guilds and 1.3M+ users, handling high-frequency events with reliable API performance and persistent storage.
+- Scaled backend services to **635+ guilds and 1.3M+ users**, handling high-frequency events with reliable API performance and persistent storage.
 
 ---
 
