@@ -19,7 +19,7 @@
 
 ## Profile Summary
 
-Backend Software Engineer building production-grade billing, gateway, and real-time AI infrastructure. Ex engineer on the **MegaLLM** backend — a multi-provider LLM gateway in front of 70+ models with idempotent Stripe/Razorpay/OxaPay billing, multi-tier caching, and full observability. Won **1st Position at the Govt. Pre Sabka AI Hackathon** for **Protego**, an AI-powered personal safety platform. Comfortable across TypeScript, Python, Hono, FastAPI, and cloud (AWS · Azure · GCP).
+Backend Software Engineer building production-grade billing, gateway, and real-time AI infrastructure. Ex engineer on the **MegaLLM** backend, a multi-provider LLM gateway in front of 70+ models with idempotent Stripe/Razorpay/OxaPay billing, multi-tier caching, and full observability. Won **1st Position at the Govt. Pre Sabka AI Hackathon** for **Protego**, an AI-powered personal safety platform. Comfortable across TypeScript, Python, Hono, FastAPI, and cloud (AWS · Azure · GCP).
 
 ---
 
