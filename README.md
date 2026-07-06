@@ -42,7 +42,7 @@ Other              Twilio · BeautifulSoup · PIL/Pillow · Git · Linux/Unix
 ## Experience
 
 ### **MegaLLM** | Backend Engineer
-*Remote · Oct 2025 – Present · [megallm.io](https://megallm.io)*
+*Remote · Nov 2025 – June 2026 · [megallm.io](https://megallm.io)*
 
 - Sole engineer on the MegaLLM backend — a production OpenAI/Anthropic-compatible API gateway in front of 70+ LLMs on **Hono + Bun + TypeScript** with MongoDB, Redis, Kafka, and ClickHouse.
 - Designed a 3-tier cache (in-memory LRU → Redis → MongoDB) hitting **>95% L0 hit rate at ~2–4 ms**, plus intelligent model routing with a MobileBERT classifier and 429/5xx fallback chains.
