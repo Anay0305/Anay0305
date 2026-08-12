@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="mailto:me@anaygupta.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2f2f2f"/></a>
-  <a href="https://zssh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=1f1f1f"/></a>
-  <a href="https://zssh.dev/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=2f2f2f"/></a>
+  <a href="https://anays.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white&color=1f1f1f"/></a>
+  <a href="https://anays.dev/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=000&color=2f2f2f"/></a>
   <a href="https://www.linkedin.com/in/anay-gupta-77b8831a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1f1f1f"/></a>
   <a href="https://leetcode.com/u/anaygupta03/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=2f2f2f"/></a>
 </p>
